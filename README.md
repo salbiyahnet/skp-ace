@@ -1,2 +1,4 @@
 # skp-ace
-asu
+```
+git clone https://github.com/salbiyahnet/skp-ace
+```
